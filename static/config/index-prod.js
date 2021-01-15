@@ -5,7 +5,9 @@
   window.SITE_CONFIG = {}
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://mall4j-admin.gz-yami.com/apis'
+  // window.SITE_CONFIG['baseUrl'] = 'http://mall4j-admin.gz-yami.com/apis'
+  window.SITE_CONFIG['baseUrl'] = 'http://localhost:8085/apis'
+  // window.SITE_CONFIG['baseUrl'] = 'http://localhost:8085/'
   // 静态资源文件url
   window.SITE_CONFIG['resourcesUrl'] = 'http://img-test.gz-yami.com/'
   // cdn地址 = 域名 + 版本号

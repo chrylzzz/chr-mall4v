@@ -20,8 +20,8 @@ export const tableOption = {
   column: [{
     label: '用户昵称',
     prop: 'userName',
-    // type: 'select', //选择查询框
-    type: 'input', //输入查询框
+    // type: 'select', // 选择查询框
+    type: 'input', // 输入查询框
     
     search: true
   }, {

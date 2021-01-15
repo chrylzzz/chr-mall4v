@@ -51,7 +51,7 @@ export default {
     return {
       dataList: [],
       dataListLoading: false,
-      dataListSelections: [],//勾选的数据
+      dataListSelections: [],// 勾选的数据
       addOrUpdateVisible: false,
       tableOption: tableOption,
       page: {
